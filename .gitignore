@@ -1,0 +1,4 @@
+data/raw/order_products__prior.csv
+data/raw/orders.csv
+data/processed/joined_order_products.csv
+data/processed/orders_cleaned.csv
