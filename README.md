@@ -32,6 +32,7 @@ Instacart thrives on understanding its diverse customer base. The insights glean
 ---
 
 ## Project Blueprint: How We're Organized
+```
 instacart_analysis/
 ├── notebooks/
 │ ├── 01_data_cleaning_preparation.ipynb # Foundational data cleaning and preparation
@@ -46,6 +47,7 @@ instacart_analysis/
 ├── src/ # (Optional: Helper scripts or utility functions)
 ├── requirements.txt # Essential Python packages
 └── README.md # You are here!
+```
 
 --
 ## Detailed Analysis Breakdown
