@@ -49,7 +49,6 @@ instacart_analysis/
 └── README.md # You are here!
 ```
 
---
 ## Detailed Analysis Breakdown
 
 My analytical journey unfolds across several key notebooks:
