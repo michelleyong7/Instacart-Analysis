@@ -77,7 +77,7 @@ Exploration has yielded several exciting insights:
 
 1.  **Clone the Adventure:**
     ```bash
-    git clone https://github.com/yourusername/instacart_analysis.git # Replace with your actual repo URL
+    git clone https://github.com/michelleyong7/instacart_analysis.git
     cd instacart_analysis
     ```
 2.  **Equip Toolkit (Install Dependencies):**
@@ -92,10 +92,10 @@ Exploration has yielded several exciting insights:
 ## Technical Toolkit
 
 -   Python 3.8+
--   Pandas & NumPy (for data manipulation and numerical operations)
--   Matplotlib & Seaborn (for compelling visualizations)
--   SQLite (for in-memory SQL database operations)
--   Jupyter Notebooks (for interactive analysis and storytelling)
+-   Pandas & NumPy 
+-   Matplotlib & Seaborn 
+-   SQLite 
+-   Jupyter Notebooks 
 
 ---
 
